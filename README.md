@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Small project for "Construction of Web Services" classes at SGGW Warsaw Universtiy
 
-Things you may want to cover:
+Some info about the app:
 
-* Ruby version
+* ruby 3.0.0p0 (2020-12-25 revision 95aff21468)
+* Rails 6.1.3
+* Deployment using Heroku
 
 * System dependencies
 
