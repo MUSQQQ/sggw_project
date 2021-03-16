@@ -1,5 +1,7 @@
 # README
 
+Left off. Not finished at all
+
 Small project for "Construction of Web Services" classes at SGGW Warsaw Universtiy
 
 Some info about the app:
